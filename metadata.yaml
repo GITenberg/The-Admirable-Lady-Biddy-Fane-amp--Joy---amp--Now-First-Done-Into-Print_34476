@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '3653'
     url: http://www.gutenberg.org/2009/agents/3653
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34476#The-Admirable-Lady-Biddy-Fane-amp--Joy---amp--Now-First-Done-Into-Print
 gutenberg_issued: '2010-11-29'
 gutenberg_type: Text
 identifiers:
