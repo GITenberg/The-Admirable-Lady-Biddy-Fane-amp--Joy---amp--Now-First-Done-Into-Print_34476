@@ -1,0 +1,29 @@
+_repo: The-Admirable-Lady-Biddy-Fane-amp--Joy---amp--Now-First-Done-Into-Print_34476
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barrett, Frank
+    birthdate: 1848
+    gutenberg_agent_id: '3653'
+    url: http://www.gutenberg.org/2009/agents/3653
+description: ''
+gutenberg_issued: '2010-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34476'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Pirates -- Fiction'
+- !lcc 'PR'
+title: "The Admirable Lady Biddy Fane\r\nHer Surprising Curious Adventures In Strange\
+  \ Parts & Happy Deliverance From Pirates, Battle, Captivity, & Other Terrors; Together\
+  \ With Divers Romantic & Moving Accidents As Set Forth By Benet Pengilly (Her Companion\
+  \ In Misfortune & Joy), & Now First Done Into Print"
+url: http://www.gutenberg.org/ebooks/34476
